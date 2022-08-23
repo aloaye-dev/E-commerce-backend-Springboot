@@ -4,7 +4,11 @@
 # E-commerce-backend-Springboot
 An E-commerce backend-project with Springboot.
 An E-commerce backend-project with Springboot.Broken down into different Microservices and connected to different database. MySQL and MongoDB.
-#UserMetaData Services -> MySQL
-#AddToCart Services -> MySQL
-#ProductDetailService -> MongoDB
-The communication with each services was done with feign client
+
+#UserMetaData Services -> MySQL.
+
+#AddToCart Services -> MySQL.
+
+#ProductDetailService -> MongoDB.
+
+The communication with each services was done with feign client.
